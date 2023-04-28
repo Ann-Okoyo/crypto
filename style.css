@@ -1,0 +1,311 @@
+nav{
+   background-color:purple;
+   overflow: hidden;
+   
+
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+/* .navigation a:hover{
+    background-color:#ddd ;
+    color: black; */
+/* } */
+nav li{
+    float: left;
+
+}
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 34px;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: purple;
+}
+.bord{
+    border: left;color: purple;
+    position: relative;
+    top: -340PX;
+    padding-left: 20px;
+    
+    
+}
+/* .trust2{
+    display: flex;
+
+} */
+.but1{
+    width: 100px;
+    height: 70px;
+    background-color: purple;
+    text-decoration: black;
+    margin-left: 30px;
+    position: relative;
+    top: -300PX;
+    border-radius: 20%;
+
+
+}
+   
+.trust3{
+    text-decoration:#77dada;
+}
+.trust4{
+    color: #77dada;
+}
+body{
+    /* background-color: black; */
+}
+.trust1{
+    display: flex;
+}
+.green{
+    list-style-type: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 0%;
+    
+
+}
+.tableb{
+    display: flex;
+}
+.connect{
+    display: flex;
+}
+.trust2{
+    display: flex;
+
+}
+.image9{
+    padding-top:10%;
+    margin-left: 60%;
+    
+}
+.line{
+   border-left: 1px solid blue;
+   height: 40px;
+   /* padding-top: 10px; */
+   margin-top: 50px;
+
+
+}
+.tableb{
+    display: flex;
+    line-height: 1.5;
+}
+.easy{
+    border-radius: 30px;
+    border: solid;
+    height: 320px;
+    width: 240px;
+}
+.message4{
+    border-radius: 40px;
+    border: solid;
+    height: 320px;
+    width: 240px;
+}
+.vault{
+    border-radius: 30px;
+    border: solid;
+    height: 320px;
+    width: 240px;
+}
+.black{
+    /* background-color: black; */
+}
+.and{
+    text-decoration: white;
+}
+.white{
+    text-decoration: white;
+}
+green ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+}
+.green li{
+    display: inline-block;
+    margin: 0;
+    padding: 0%;
+
+}
+.green a{
+
+}
+.green{
+    font-size: 30px;
+    word-spacing: 20px;
+    margin-top: -240px;
+    /* text-shadow: 4px 4px 5px purple,-4px -4px 5px purple,4px -4px 5px purple,-4px 4px 5px purplr; */
+    border: solid;
+    background-color: purple;
+}
+
+.view{
+   margin-left: 90%;
+   text-align: center;
+   margin-bottom: 10%;
+}
+.table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.table th, .table td{
+    border: 1px solid black;
+
+}
+.image2{
+    display: flex;
+    
+}
+.user{
+    padding-left: 90%;
+    justify-content:space-between 700% ;
+    
+
+}
+.invest{
+    display: flex;
+
+}
+.webpic{
+    justify-content:space-between 2000% ;
+    margin-left: 60%;
+}
+.final{
+    display: flex;
+}
+.all{
+    display: flex;
+    align-items: center;
+    margin-top: 400px;
+
+}
+.most{
+    
+}
+table{
+    width: 90%;
+    margin-top: 1%;
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    margin-left: 2%;
+    background: radial-gradient( #000124 #1A1A1A);
+    border-radius: 11px;
+    box-shadow: 0 10px 30px rgb(0, 0, 0,0.5);
+    margin-bottom: 20%;
+    background-color: #1A1A1A;
+
+}
+
+td,
+.th{
+    padding: 16px 24px;
+    text-align: left;
+    color:#D6D6D6;
+    font-weight: 600;
+}
+.tableB{
+    text-align: center;
+    margin-right: 133px;
+    
+}
+   .view{
+    margin-bottom: 4%;
+   }
+body{
+   overflow-x: hidden;
+
+   
+}
+.correct{
+    display: flex;
+}
+.vault{
+    margin-top: 0%;
+    text-align: center;
+    margin-right: 30%;
+
+}
+.message4{
+    margin-top: 30%;
+    margin-right: 5%;
+}
+.User{
+    /* margin-right: 80%; */
+
+}
+.crypto{
+    /* margin-left: 20%; */
+    width: 120%;
+    color: white;
+    
+}
+.webpic{
+    margin-right: 2%;
+}
+.most{
+    /* 
+    .DI\ */
+    margin-left: 70%;
+    color: white;
+}
+.all{
+    margin-left: 40%;
+    margin-top: -1%;
+    margin-top: 1%;
+    color: white;
+}
+.build1{
+    display: flex;
+    
+}
+.sound{
+    margin-left:40% ;
+}
+.rewards{
+    text-align: center;
+    border-radius: 10px;
+    border: solid purple;
+    width: 70%;
+    height: 50%;
+    margin-left: 20%;
+
+}
+.mobile{
+    color: purple;
+}
+.white{
+    color: white;
+}
+.black{
+    background-color: black;
+}
+.correct{
+    color: white;
+}
+.build2{
+    color: white;
+}
+.rewards{
+    color: white;
+}
+
+body{
+    background-color:black;
+   
+
+}
+.very{
+    color: white;
+}
